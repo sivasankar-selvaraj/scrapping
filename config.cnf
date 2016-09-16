@@ -1,0 +1,9 @@
+[logging]
+log_path = log/app.log
+
+[category]
+category_link_file = category_links.txt
+
+[product]
+products_link_file = product_links.txt
+product_data_file = product.json
