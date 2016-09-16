@@ -1,6 +1,6 @@
 Scraping Application
 ================================================
- It's scraping application for scrap the data from website.This is a custom application not a generic, because it's scrap the specific url based on class and id of pagecontent.
+This is a custom application not a generic, because it's scrap the specific url based on class and id of pagecontent.
 
 
 Running
